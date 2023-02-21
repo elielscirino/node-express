@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "express",
+  "version": "1.0.0",
+  "description": "Projeto para prática do curso Introdução ao Node.js com Express da DIO",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elielscirino/node-express.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api"
+  ],
+  "author": "Eliel Cirino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elielscirino/node-express/issues"
+  },
+  "homepage": "https://github.com/elielscirino/node-express#readme"
+}
